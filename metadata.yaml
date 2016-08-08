@@ -1,0 +1,22 @@
+_repo: Color-Images-from-Mars-Rovers--13-Spirit-and-Opportunity_12082
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Webster, Bob
+    gutenberg_agent_id: '4217'
+    url: http://www.gutenberg.org/2009/agents/4217
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12082'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Mars (Planet) -- Pictorial works'
+- GITenberg
+title: "Color Images from Mars Rovers\r\nSpirit and Opportunity"
+url: http://www.gutenberg.org/ebooks/12082
